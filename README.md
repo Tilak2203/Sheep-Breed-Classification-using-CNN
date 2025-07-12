@@ -13,6 +13,8 @@ This project leverages **Convolutional Neural Networks (CNNs)** and **transfer l
   - **Suffolk**
 - Images are resized to **150×150** pixels
 - Pixel values normalized to **[0, 1]**
+- [Download Dataset from Google Drive](https://drive.google.com/drive/folders/175QRkvdWVVf94Cf2bZwUm89Ik7XtkdX5?usp=sharing)
+
 
 ---
 
@@ -58,4 +60,8 @@ This project leverages **Convolutional Neural Networks (CNNs)** and **transfer l
 | VGG19    | ~91–92%  | Competitive performance|
 
 ---
+<img width="1725" height="496" alt="image" src="https://github.com/user-attachments/assets/8e6d19e5-2111-4f2a-9806-49d283942758" />
+
+<img width="1730" height="515" alt="image" src="https://github.com/user-attachments/assets/22e45e9d-405b-43d1-a6a1-fb1a9308e275" />
+
 
